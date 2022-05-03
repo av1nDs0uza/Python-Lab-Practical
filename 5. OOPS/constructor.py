@@ -8,7 +8,7 @@ class Students:
         self.branch=input("Enter your branch: ")
 
     def __str__(self):
-        return f"The name of the students is {self.name} and the branch is {self.branch}"
+        return f"The name of the students is {self.name} and is from  {self.branch}"
 
 stu = int(input("Enter number of student data you want to insert: "))
 
