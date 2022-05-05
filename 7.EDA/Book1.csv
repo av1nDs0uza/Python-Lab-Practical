@@ -1,0 +1,6 @@
+Item_Category,Gender,Age,Salary,Purchased
+Fitness,Male,20,30000,Yes
+Fitness,Female,50,70000,No
+Food,Male,35,50000,Yes
+Kitchen,Male,22,40000,No
+Kitchen,Female,30,35000,Yes
